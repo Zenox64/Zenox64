@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zenox64
 - 👀 I’m interested in computers and programming
-- 🌱 I’m currently learning JavaScript. Figuring out how I can use vanilla JS in my projects.
+- 🌱 I’m currently doing frontend and actively learning python
 - 📫 How to reach me ... my website www.keaganlueck.com
 
 <!---
